@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Roomba</string>
+    <string name="distance_format">%1$s cm</string>
+        <string name="tab_manual">Manual</string>
+        <string name="ir_sensors_status">IR Sensors Status</string>
+        <string name="left_ngnd">Left: NGND</string>
+        <string name="middle_ngnd">Middle: NGND</string>
+        <string name="right_ngnd">Right: NGND</string>
+        <string name="ultrasonic_distances">Ultrasonic Distances</string>
+        <string name="left_0_cm">Left : 0 cm</string>
+        <string name="middle_0_cm">Middle : 0 cm</string>
+        <string name="right_0_cm">Right : 0 cm</string>
+        <string name="forward">Forward</string>
+        <string name="backward">Backward</string>
+        <string name="left">Left</string>
+        <string name="right">Right</string>
+        <string name="start">Start</string>
+        <string name="stop">Stop</string>
+        <string name="slider_min">0%</string>
+        <string name="slider_max">100%</string>
+        <string name="front_brush">Front Brush (Off/On)</string>
+        <string name="log_output">Device Log Output</string>
+        <string name="log_placeholder">Logs will appear here...</string>
+        <string name="percentage_zero">0%</string>
+        <string name="percentage_hundred">100%</string>
+        <string name="desc_start">Start the robot</string>
+        <string name="desc_forward">Move forward</string>
+        <string name="desc_stop">Stop the robot</string>
+        <string name="desc_left">Turn left</string>
+        <string name="desc_backward">Move backward</string>
+        <string name="desc_right">Turn right</string>
+    </resources>
